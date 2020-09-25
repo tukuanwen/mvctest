@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+                           http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd
+                           http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <!-- 在业务代码中添加事务管理，事务配置步骤 -->
+    <!--
+        1、业务代码完成
+        2、添加事务管理器
+        3、开启事务注解
+        4、在需要Service上添加事务注解
+     -->
+    <!-- 创建数据源 -->
+    <bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource">
+
+    </bean>
+
+    <!-- 创建事务管理器，并添加数据源 -->
+    <bean id="transactionManagertion" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="dataSource"></property>
+    </bean>
+
+    <!-- 开启事务，需要引入tx命名空间,注解专用 -->
+    <tx:annotation-driven transaction-manager="transactionManagertion"></tx:annotation-driven>
+
+
+    <!-- ========================================以xml方式添加事务====================================== -->
+    <!-- 配置事务通知连接点 -->
+    <tx:advice id="testAdvice" transaction-manager="transactionManagertion">
+        <tx:attributes>
+            <tx:method name="doBankTest"/>
+        </tx:attributes>
+    </tx:advice>
+
+    <!-- 配置切入点和切面 -->
+    <aop:config>
+        <!-- 配置切入点 -->
+        <aop:pointcut id="pc" expression="*com.tu.mvctest.test.txDemo.UserService()"></aop:pointcut>
+        <!-- 配置切面 -->
+        <aop:advisor advice-ref="testAdvice" pointcut-ref="pc"/>
+
+    </aop:config>
+
+
+
+</beans>

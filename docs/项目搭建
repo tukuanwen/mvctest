@@ -1,0 +1,14 @@
+SpringMvc项目搭建相关步骤：导jar包->web.xml->springMvc.xml
+第一步：MAVEN配置相关jar包
+spring-web spring-webmvc
+第二步：web.xml，springMvc.xml配置文件配置
+1、web.xml:一定要配置一个DispatchServlet,rest风格需要配置一个HiddenHttpMethodFilter。spring和springMvc配置文件都是从web.xml添加
+2、springMvc中配置注解扫描路径,配置mvc的view解析器，以及静态资源路径
+3、springMvc核心流程步骤：映射-->拦截-->适配-->解析-->渲染
+
+
+
+
+
+
+

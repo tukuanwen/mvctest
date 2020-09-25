@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+    <!-- 驱动包 -->
+    <classPathEntry location="C:\Users\whdon\.m2\repository\mysql\mysql-connector-java\5.1.46\mysql-connector-java-5.1.46.jar" />
+
+
+    <context id="DB2Tables" targetRuntime="MyBatis3">
+
+        <!-- commentGenerator的位置要放在jdbcConnection之前不然会报错 -->
+        <!-- 去掉生成代码上面的注释 -->
+        <commentGenerator >
+            <property name="suppressDate" value="true"/>
+            <property name="suppressAllComments" value="true"/>
+        </commentGenerator>
+        <!-- 数据库表连接配置 -->
+        <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+                        connectionURL="jdbc:mysql://127.0.0.1:3306/mvctest?characterEncoding=utf8"
+                        userId="root"
+                        password="123456">
+        </jdbcConnection>
+        <!-- 配置数据库字段类型为DECIMAL 和 NUMERIC 是否强制解析成BigDecimal,可以不配置默认为false-->
+        <javaTypeResolver >
+            <property name="forceBigDecimals" value="false" />
+        </javaTypeResolver>
+
+        <!-- targetProject的目录必须要存在，如果没有要自己创建，generator不会自动创建 -->
+        <!-- 配置表对应实体类存放路径 -->
+        <javaModelGenerator targetPackage="com.tu.mvctest.dao.entity" targetProject="D:/iproject/mvctest/src/main/java">
+            <property name="enableSubPackages" value="true" />
+            <property name="trimStrings" value="true" />
+        </javaModelGenerator>
+        <!-- 配置生产的Mapping xml文件和接口文件路径 -->
+        <sqlMapGenerator targetPackage="mapping"  targetProject="D:/iproject/mvctest/src/main/resources">
+            <property name="enableSubPackages" value="true" />
+        </sqlMapGenerator>
+
+        <!-- 如果type配置成XMLMAPPER，则生成xml格式的mapper文件，配置成ANNOTATEDMAPPER生成注解形式的mpper文件 -->
+        <javaClientGenerator type="XMLMAPPER" targetPackage="com.tu.mvctest.dao.mapper"  targetProject="D:/iproject/mvctest/src/main/java">
+            <property name="enableSubPackages" value="true" />
+        </javaClientGenerator>
+
+        <table tableName="class_tab" domainObjectName="ClassTab" ></table>
+
+        <table tableName="user_tab" domainObjectName="UserTab" ></table>
+
+    </context>
+</generatorConfiguration>
