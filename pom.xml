@@ -6,10 +6,25 @@
 
     <groupId>com.tu.mvctest</groupId>
     <artifactId>mvctest</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>JAVASE-MODEL</module>
+        <module>rabbitMQ-product</module>
+    </modules>
     <properties>
         <spring.version>5.0.10.RELEASE</spring.version>
     </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-web</artifactId>
+                <version>2.3.4.RELEASE</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
 
     <dependencies>
 
