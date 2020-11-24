@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/dubbo_product/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo_consumer/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo_api/pom.xml" />
+        <option value="$PROJECT_DIR$/redisDemo/pom.xml" />
       </list>
     </option>
   </component>

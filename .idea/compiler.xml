@@ -12,6 +12,7 @@
         <module name="dubbo_product" />
         <module name="JAVASE-MODEL" />
         <module name="rabbitMQ-product" />
+        <module name="redisDemo" />
         <module name="springboot-jms-consumer" />
         <module name="springboot-jms-topic-consumer" />
         <module name="zookeeperDemo" />
@@ -30,6 +31,7 @@
       <module name="JAVASE-MODEL" target="1.5" />
       <module name="mvctest" target="1.5" />
       <module name="rabbitMQ-product" target="1.8" />
+      <module name="redisDemo" target="1.8" />
       <module name="springboot-jms-consumer" target="1.8" />
       <module name="springboot-jms-product" target="1.8" />
       <module name="springboot-jms-topic-consumer" target="1.8" />
@@ -42,6 +44,7 @@
       <module name="dubbo_consumer" options="-parameters" />
       <module name="dubbo_product" options="-parameters" />
       <module name="rabbitMQ-product" options="-parameters" />
+      <module name="redisDemo" options="-parameters" />
       <module name="springboot-jms-consumer" options="-parameters" />
       <module name="springboot-jms-product" options="-parameters" />
       <module name="springboot-jms-topic-consumer" options="-parameters" />
