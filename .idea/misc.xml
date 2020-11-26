@@ -14,7 +14,8 @@
         <option value="$PROJECT_DIR$/dubbo_product/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo_consumer/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo_api/pom.xml" />
-        <option value="$PROJECT_DIR$/redisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVASE-MODEL/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-seckill/pom.xml" />
       </list>
     </option>
   </component>

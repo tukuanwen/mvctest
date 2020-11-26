@@ -1,11 +1,11 @@
 package com.tu.redisDemo.mvctest.test;
 
 import com.sun.javafx.property.adapter.PropertyDescriptor;
-import org.springframework.beans.BeansException;
-import org.springframework.beans.PropertyValues;
-import org.springframework.beans.factory.config.InstantiationAwareBeanPostProcessorAdapter;
+//import org.springframework.beans.BeansException;
+//import org.springframework.beans.PropertyValues;
+//import org.springframework.beans.factory.config.InstantiationAwareBeanPostProcessorAdapter;
 
-public class MyInstantiationAwareBeanPostProcessor extends InstantiationAwareBeanPostProcessorAdapter {
+public class MyInstantiationAwareBeanPostProcessor {// extends InstantiationAwareBeanPostProcessorAdapter {
 
     public MyInstantiationAwareBeanPostProcessor(){
         System.out.println("【InstantiationAwareBeanPostProcessor接口】调用InstantiationAwareBeanPostProcessor构造方法");
@@ -25,17 +25,17 @@ public class MyInstantiationAwareBeanPostProcessor extends InstantiationAwareBea
      * 实例化Bean之后调用
      */
 
-    public Object postProcessAfterInitialization(Object bean, String beanName) throws BeansException {
-
-        System.out.println("【InstantiationAwareBeanPostProcessor接口】调用InstantiationAwareBeanPostProcessor接口的postProcessAfterInitialization方法");
-        return bean;
-    }
+//    public Object postProcessAfterInitialization(Object bean, String beanName) throws BeansException {
+//
+//        System.out.println("【InstantiationAwareBeanPostProcessor接口】调用InstantiationAwareBeanPostProcessor接口的postProcessAfterInitialization方法");
+//        return bean;
+//    }
 
     /**
      * 设置某个属性时调用
      */
-    public PropertyValues postProcessPropertyValues(PropertyValues pvs, PropertyDescriptor[] pds, Object bean, String beanName){
-        System.out.println("【InstantiationAwareBeanPostProcessor接口】调用InstantiationAwareBeanPostProcessor接口的postProcessPropertyValues方法");
-        return pvs;
-    }
+//    public PropertyValues postProcessPropertyValues(PropertyValues pvs, PropertyDescriptor[] pds, Object bean, String beanName){
+//        System.out.println("【InstantiationAwareBeanPostProcessor接口】调用InstantiationAwareBeanPostProcessor接口的postProcessPropertyValues方法");
+//        return pvs;
+//    }
 }

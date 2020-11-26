@@ -1,8 +1,8 @@
 package com.tu.redisDemo.mvctest.test;
 
-import org.springframework.cglib.proxy.Enhancer;
-import org.springframework.cglib.proxy.MethodInterceptor;
-import org.springframework.cglib.proxy.MethodProxy;
+//import org.springframework.cglib.proxy.Enhancer;
+//import org.springframework.cglib.proxy.MethodInterceptor;
+//import org.springframework.cglib.proxy.MethodProxy;
 
 import java.lang.reflect.Method;
 import java.nio.ByteBuffer;
@@ -30,16 +30,16 @@ public class GCErrorDemo {
             System.out.println("打印");
             while (true){
                 i++;
-                Enhancer enhancer = new Enhancer();
-                enhancer.setSuperclass(OOMTest.class);
-                enhancer.setUseCache(false);
-                enhancer.setCallback(new MethodInterceptor() {
-                    @Override
-                    public Object intercept(Object o, Method method, Object[] objects, MethodProxy methodProxy) throws Throwable {
-                        return methodProxy.invokeSuper(o, objects);
-                    }
-                });
-                enhancer.create();
+//                Enhancer enhancer = new Enhancer();
+//                enhancer.setSuperclass(OOMTest.class);
+//                enhancer.setUseCache(false);
+//                enhancer.setCallback(new MethodInterceptor() {
+//                    @Override
+//                    public Object intercept(Object o, Method method, Object[] objects, MethodProxy methodProxy) throws Throwable {
+//                        return methodProxy.invokeSuper(o, objects);
+//                    }
+//                });
+//                enhancer.create();
             }
         }catch(Exception e){
             System.out.println("**************多少次后发生了异常："+i);

@@ -6,9 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/dubbo_api/dubbo_api.iml" filepath="$PROJECT_DIR$/dubbo_api/dubbo_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo_consumer/dubbo_consumer.iml" filepath="$PROJECT_DIR$/dubbo_consumer/dubbo_consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo_product/dubbo_product.iml" filepath="$PROJECT_DIR$/dubbo_product/dubbo_product.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mvctest.iml" filepath="$PROJECT_DIR$/mvctest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rabbitMQ-product/rabbitMQ-product.iml" filepath="$PROJECT_DIR$/rabbitMQ-product/rabbitMQ-product.iml" />
-      <module fileurl="file://$PROJECT_DIR$/redisDemo/redisDemo.iml" filepath="$PROJECT_DIR$/redisDemo/redisDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-seckill/jesper_seckill.iml" filepath="$PROJECT_DIR$/springboot-seckill/jesper_seckill.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-jms-consumer/springboot-jms-consumer.iml" filepath="$PROJECT_DIR$/springboot-jms-consumer/springboot-jms-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-jms-product/springboot-jms-product.iml" filepath="$PROJECT_DIR$/springboot-jms-product/springboot-jms-product.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-jms-topic-consumer/springboot-jms-topic-consumer.iml" filepath="$PROJECT_DIR$/springboot-jms-topic-consumer/springboot-jms-topic-consumer.iml" />

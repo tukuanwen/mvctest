@@ -1,6 +1,6 @@
 package com.tu.redisDemo.mvctest.test;
 
-import org.springframework.beans.BeansException;
+//import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.*;
 
 /**
@@ -10,14 +10,14 @@ import org.springframework.beans.factory.*;
  * BeanFactoryAware：加入到beanFactory工厂中
  */
 
-public class StudentBean implements InitializingBean, DisposableBean, BeanNameAware, BeanFactoryAware {
+public class StudentBean {//implements InitializingBean, DisposableBean, BeanNameAware, BeanFactoryAware {
 
     //bean两个属性
     private String name;
     private int age;
 
     private String beanName;         //实现了BeanNameAware接口，Spring可以将BeanName注入该属性中
-    private BeanFactory beanFactory; //实现了BeanFactory接口，Spring可将BeanFactory注入该属性中
+//    private BeanFactory beanFactory; //实现了BeanFactory接口，Spring可将BeanFactory注入该属性中
 
     public StudentBean(){
         System.out.println("实例化bean对象");
@@ -27,15 +27,15 @@ public class StudentBean implements InitializingBean, DisposableBean, BeanNameAw
         return "studentBean:{name:"+name+", age:"+age+"}";
     }
 
-    /**
-     * BeanFactoryAware 接口方法
-     * @param beanFactory
-     * @throws BeansException
-     */
-    public void setBeanFactory(BeanFactory beanFactory) throws BeansException {
-        this.beanFactory = beanFactory;
-        System.out.println("【BeanFactoryAware接口】调用BeanFactoryAware的setBeanFactory方法得到beanFactory引用");
-    }
+//    /**
+//     * BeanFactoryAware 接口方法
+//     * @param beanFactory
+//     * @throws BeansException
+//     */
+//    public void setBeanFactory(BeanFactory beanFactory) throws BeansException {
+//        this.beanFactory = beanFactory;
+//        System.out.println("【BeanFactoryAware接口】调用BeanFactoryAware的setBeanFactory方法得到beanFactory引用");
+//    }
 
     /**
      * BeanNameAware 接口

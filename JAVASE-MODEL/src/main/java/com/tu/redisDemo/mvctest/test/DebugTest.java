@@ -17,18 +17,26 @@ public class DebugTest {
         return list;
     }
 
+    public DebugTest(){
+        String className = getClass().getSimpleName();
+        System.out.println(className);
+    }
+
     public static void main(String[] args){
 
-        DebugTest test = new DebugTest();
+//        DebugTest test = new DebugTest();
+//
+//        List<String> list = test.createList();
+//
+//        for (String s : list) {
+//
+//            System.out.println(s);
+//        }
+//
+//        System.out.println("断点终点");
 
-        List<String> list = test.createList();
 
-        for (String s : list) {
-
-            System.out.println(s);
-        }
-
-        System.out.println("断点终点");
+        new DebugTest()
 
 
     }

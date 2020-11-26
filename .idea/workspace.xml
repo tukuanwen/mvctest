@@ -7,155 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4b30c1f-447d-4a56-93ef-e7b093a69ad8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/config/SendConfirmCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/config/SendReturnCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/service/DirectReceiver1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/service/DirectReceiver2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisDemo/src/main/java/com/tu/redisDemo/redisDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redisDemo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVASE-MODEL/src/main/java/com/tu/model/SeasonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE-MODEL/src/main/java/com/tu/redisDemo/model/SeasonMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_api/src/main/java/com/tu/api/ApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_api/src/main/java/com/tu/redisDemo/api/ApiApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_api/src/main/java/com/tu/api/services/DubboServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_api/src/main/java/com/tu/redisDemo/api/services/DubboServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_api/src/main/java/com/tu/api/services/impl/DubboServerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_api/src/main/java/com/tu/redisDemo/api/services/impl/DubboServerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_api/src/test/java/com/tu/api/ApiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_api/src/test/java/com/tu/redisDemo/api/ApiApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/dubboDemo/DubboConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/redisDemo/dubboDemo/DubboConsumerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/dubboDemo/controller/ConsumerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/redisDemo/dubboDemo/controller/ConsumerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/dubboDemo/services/DemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/redisDemo/dubboDemo/services/DemoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/dubboDemo/services/impl/DemoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/redisDemo/dubboDemo/services/impl/DemoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_consumer/src/main/resources/consumer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_consumer/src/main/resources/consumer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_consumer/src/test/java/com/tu/dubboDemo/DubboConsumerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_consumer/src/test/java/com/tu/redisDemo/dubboDemo/DubboConsumerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/dubboDemo/DubboProductApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/redisDemo/dubboDemo/DubboProductApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/dubboDemo/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/redisDemo/dubboDemo/controller/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/dubboDemo/services/DemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/redisDemo/dubboDemo/services/DemoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/dubboDemo/services/impl/DemoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/redisDemo/dubboDemo/services/impl/DemoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/dubboDemo/services/impl/DemoServiceImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/redisDemo/dubboDemo/services/impl/DemoServiceImpl2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_product/src/main/resources/provider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_product/src/main/resources/provider.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo_product/src/test/java/com/tu/dubboDemo/DubboProductApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_product/src/test/java/com/tu/redisDemo/dubboDemo/DubboProductApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/rabbitmqtest/RabbitMQMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/RabbitMQMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/rabbitmqtest/config/RabbitMQConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/config/RabbitMQConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/rabbitmqtest/config/RabbitTemplateConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/config/RabbitTemplateConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/rabbitmqtest/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/config/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/rabbitmqtest/controller/RabbitMQController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/controller/RabbitMQController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/rabbitmqtest/service/DirectReceiver1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/rabbitmqtest/service/DirectReceiver2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/rabbitmqtest/service/DirectSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/service/DirectSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMQ-product/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMQ-product/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/target/classes/com/tu/rabbitmqtest/config/RabbitMQConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMQ-product/target/classes/com/tu/rabbitmqtest/config/RabbitMQConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/target/classes/com/tu/rabbitmqtest/config/RabbitTemplateConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMQ-product/target/classes/com/tu/rabbitmqtest/config/RabbitTemplateConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/target/classes/com/tu/rabbitmqtest/controller/RabbitMQController.class" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMQ-product/target/classes/com/tu/rabbitmqtest/controller/RabbitMQController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/target/classes/com/tu/rabbitmqtest/service/DirectReceiver1.class" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMQ-product/target/classes/com/tu/rabbitmqtest/service/DirectReceiver1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/target/classes/com/tu/rabbitmqtest/service/DirectReceiver2.class" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMQ-product/target/classes/com/tu/rabbitmqtest/service/DirectReceiver2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMQ-product/target/classes/com/tu/rabbitmqtest/service/DirectSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMQ-product/target/classes/com/tu/rabbitmqtest/service/DirectSender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-jms-consumer/src/main/java/com/tu/springbootjmsconsumer/SpringbootJmsConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jms-consumer/src/main/java/com/tu/redisDemo/springbootjmsconsumer/SpringbootJmsConsumerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-jms-consumer/src/main/java/com/tu/springbootjmsconsumer/activeMQConsumerDemo/ActiveMQConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jms-consumer/src/main/java/com/tu/redisDemo/springbootjmsconsumer/activeMQConsumerDemo/ActiveMQConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-jms-consumer/src/test/java/com/tu/springbootjmsconsumer/SpringbootJmsConsumerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jms-consumer/src/test/java/com/tu/redisDemo/springbootjmsconsumer/SpringbootJmsConsumerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-jms-product/src/main/java/com/tu/springbootjms/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jms-product/src/main/java/com/tu/redisDemo/springbootjms/DemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-jms-product/src/main/java/com/tu/springbootjms/activemqDemo/ActiveMQProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jms-product/src/main/java/com/tu/redisDemo/springbootjms/activemqDemo/ActiveMQProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-jms-product/src/main/java/com/tu/springbootjms/activemqDemo/ActiveMQTopicProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jms-product/src/main/java/com/tu/redisDemo/springbootjms/activemqDemo/ActiveMQTopicProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-jms-product/src/main/java/com/tu/springbootjms/activemqDemo/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jms-product/src/main/java/com/tu/redisDemo/springbootjms/activemqDemo/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-jms-product/src/main/java/com/tu/springbootjms/activemqDemo/MyTopic.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jms-product/src/main/java/com/tu/redisDemo/springbootjms/activemqDemo/MyTopic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-jms-product/src/test/java/com/tu/springbootjms/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jms-product/src/test/java/com/tu/redisDemo/springbootjms/DemoApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-jms-topic-consumer/src/main/java/com/tu/springbootjmstopicconsumer/SpringbootJmsTopicConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jms-topic-consumer/src/main/java/com/tu/redisDemo/springbootjmstopicconsumer/SpringbootJmsTopicConsumerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-jms-topic-consumer/src/main/java/com/tu/springbootjmstopicconsumer/activeMQTopicDemo/ActiveMQTopicConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jms-topic-consumer/src/main/java/com/tu/redisDemo/springbootjmstopicconsumer/activeMQTopicDemo/ActiveMQTopicConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-jms-topic-consumer/src/test/java/com/tu/springbootjmstopicconsumer/SpringbootJmsTopicConsumerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jms-topic-consumer/src/test/java/com/tu/redisDemo/springbootjmstopicconsumer/SpringbootJmsTopicConsumerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/activeDemo/JmsActiveConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/activeDemo/JmsActiveConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/activeDemo/JmsActiveMQConsumer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/activeDemo/JmsActiveMQConsumer2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/activeDemo/JmsActiveProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/activeDemo/JmsActiveProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/activeDemo/JmsSpringActiveConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/activeDemo/JmsSpringActiveConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/activeDemo/JmsSpringActiveProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/activeDemo/JmsSpringActiveProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/activeDemo/MyMessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/activeDemo/MyMessageListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/common/RedisTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/common/RedisTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/controller/HelloTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/controller/HelloTestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/controller/UserInfoHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/controller/UserInfoHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/dao/ClassDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/dao/ClassDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/dao/entity/ClassTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/dao/entity/ClassTab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/dao/entity/ClassTabExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/dao/entity/ClassTabExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/dao/entity/UserTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/dao/entity/UserTab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/dao/entity/UserTabExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/dao/entity/UserTabExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/dao/impl/ClassDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/dao/impl/ClassDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/dao/mapper/ClassTabMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/dao/mapper/ClassTabMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/dao/mapper/UserTabMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/dao/mapper/UserTabMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/server/ClassService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/server/ClassService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/server/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/server/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/server/impl/ClassServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/server/impl/ClassServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/server/impl/RedisToolService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/server/impl/RedisToolService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/server/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/server/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/AbstractTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/AbstractTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/AtomicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/AtomicTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/BlockQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/BlockQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/BlockingQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/BlockingQueueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/CallableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/CallableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/CollectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/CollectionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/CollectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/CompletableFutureDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/CompletableFutureDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/DeadLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/DeadLockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/DebugTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/DebugTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/ExecutorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/ExecutorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/ExecutorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/ExecutorsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/ExtendsDome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/ExtendsDome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/ForkJoinPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/ForkJoinPoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/FunctionStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/FunctionStreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/GCErrorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/GCErrorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/JAVAGCDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/JAVAGCDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/JVMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/JVMTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/Khtg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/Khtg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/KhtgImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/KhtgImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/LambdaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/MyBeanFactoryPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/MyBeanFactoryPostProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/MyBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/MyBeanPostProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/MyInstantiationAwareBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/MyInstantiationAwareBeanPostProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/MybatisTestUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/MybatisTestUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/NotifyWaitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/NotifyWaitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/ReadWriteLockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/ReadWriteLockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/ReferenceDome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/ReferenceDome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/Reflect/Booktkw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/Reflect/Booktkw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/Reflect/ReflectClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/Reflect/ReflectClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/ReflectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/ReflectionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/SingleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/SingleDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/SingletonEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/SingletonEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/SingletonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/SpinWaitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/SpinWaitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/SpringConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/SpringConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/StackOverFlowErrorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/StackOverFlowErrorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/StudentBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/StudentBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/SynchronizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/SynchronizedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/ThreadMessageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/ThreadMessageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/ThreadPickTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/ThreadPickTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/VolatileTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/VolatileTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/VolatileTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/VolatileTest4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/WaitAndNotifyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/WaitAndNotifyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/aopAnno/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/aopAnno/UserInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/aopAnno/UserInfoProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/aopAnno/UserInfoProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/iocDemo/FactoryBeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/iocDemo/FactoryBeanTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/iocDemo/ScopeBeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/iocDemo/ScopeBeanTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/iocDemo/TestBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/iocDemo/TestBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/iocDemo/ZjBeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/iocDemo/ZjBeanTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/springNew/JUnitDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/springNew/JUnitDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/springNew/Log4j2Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/springNew/Log4j2Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/txDemo/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/txDemo/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/txDemo/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/txDemo/UserDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/txDemo/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/txDemo/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapping/ClassTabMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapping/ClassTabMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapping/UserTabMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapping/UserTabMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/aopApplicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/aopApplicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/beanFactoryXml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/beanFactoryXml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tu/mvctest/test/Reflect/ReflectClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tu/mvctest/test/Reflect/ReflectClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tu/mvctest/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tu/mvctest/test/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zookeeperDemo/src/main/java/com/tu/zkdemo/ZKWatchChildDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeperDemo/src/main/java/com/tu/redisDemo/zkdemo/ZKWatchChildDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zookeeperDemo/src/main/java/com/tu/zkdemo/ZKWatchDataDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeperDemo/src/main/java/com/tu/redisDemo/zkdemo/ZKWatchDataDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zookeeperDemo/src/main/java/com/tu/zkdemo/zkMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/zookeeperDemo/src/main/java/com/tu/redisDemo/zkdemo/zkMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/DemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-seckill/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-seckill/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/config/UserArgumentResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/config/UserArgumentResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/SeckillController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/SeckillController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/rabbitmq/MQReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/rabbitmq/MQReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/redis/GoodsKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/redis/GoodsKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-seckill/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-seckill/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -169,6 +29,7 @@
     <ignored path="$PROJECT_DIR$/dubbo_product/target/" />
     <ignored path="$PROJECT_DIR$/dubbo_api/target/" />
     <ignored path="$PROJECT_DIR$/redisDemo/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-seckill/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,94 +64,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/Test.java">
+        <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/GoodsController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="453">
+              <caret line="158" column="41" selection-start-line="158" selection-start-column="28" selection-end-line="158" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/redisDemo/pom.xml">
+        <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/service/GoodsService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/redisDemo/src/main/java/com/tu/redisDemo/redisDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-end-line="14" />
+            <state relative-caret-position="196">
+              <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#693#694#0" expanded="true" />
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#853#854#0" expanded="true" />
+                <element signature="e#916#917#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVASE-MODEL/src/main/java/com/tu/redisDemo/model/SeasonMain.java">
+        <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/mapper/GoodsMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1363">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="-1">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaspidemo/src/com/spi/demo/NuanNanAobing.java">
+        <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/mapper/OrderMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaspidemo/src/com/spi/demo/ShuaiAobing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaspidemo/src/com/spi/demo/SpiDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="114">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javaspidemo/src/com/spi/demo/SpiInterface.java">
+        <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/service/OrderService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="154">
+              <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/redisDemo/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/MainApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="153">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rabbitMQ-product/pom.xml">
+        <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/rabbitmq/SeckillMessage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="73" column="12" selection-start-line="3" selection-start-column="4" selection-end-line="73" selection-end-column="12" />
+            <state relative-caret-position="67">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/rabbitmq/MQConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="30" column="36" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/resources/templates/goods_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="53" column="89" selection-start-line="53" selection-start-column="80" selection-end-line="53" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/resources/static/goods_detail.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="179" column="24" lean-forward="true" selection-start-line="179" selection-start-column="24" selection-end-line="179" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -312,16 +176,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>redis</find>
-      <find>command</find>
-      <find>getAutowireCapableBeanFactory</find>
-      <find>For input string</find>
-      <find>service</find>
-      <find>doGetUserInfoByList</find>
-      <find>doGetUserInfoById</find>
-      <find>get</find>
-      <find>wait</find>
-      <find>call(</find>
       <find>set</find>
       <find>defaultForkJoinWorkerThreadFactory</find>
       <find>cancel</find>
@@ -342,33 +196,29 @@
       <find>createRabbitTemplate</find>
       <find>add</find>
       <find>class</find>
+      <find>to_list</find>
+      <find>do_seckill</find>
+      <find>getSeckillResult</find>
+      <find>order/da</find>
+      <find>getOrderDetail</find>
+      <find>ORDER_NOT_EXIST</find>
+      <find>order</find>
+      <find>u_uid_gid</find>
+      <find>u_uid</find>
+      <find>sk_order</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/springboot-seckill" />
     <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="产品" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zookeeperDemo/src/main/java/com/tu/zkdemo/ZKWatchChildDemo.java" />
-        <option value="$PROJECT_DIR$/JAVASE-MODEL/src/main/java/com/tu/model/Season.java" />
-        <option value="$PROJECT_DIR$/JAVASE-MODEL/src/main/java/com/tu/model/SeasonMain.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/rabbitmqtest/RabbitMQMain.java" />
-        <option value="$PROJECT_DIR$/rabbitMQ-product/pom.xml" />
-        <option value="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/rabbitmqtest/controller/WebSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/rabbitmqtest/config/WebSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/JVMTest.java" />
-        <option value="$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/dubbo_consumer/services/impl/DemoServiceImpl.java" />
-        <option value="$PROJECT_DIR$/dubbo_consumer/src/main/resources/provider.xml" />
-        <option value="$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/dubbo_product/controller/ProductController.java" />
-        <option value="$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/dubbo_product/DubboProductApplication.java" />
-        <option value="$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/dubbo_consumer/services/DemoService.java" />
-        <option value="$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/dubbo_consumer/DubboConsumerApplication.java" />
-        <option value="$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/dubbo_consumer/controller/ConsumerController.java" />
-        <option value="$PROJECT_DIR$/dubbo_api/src/main/java/com/tu/api/services/DubboServer.java" />
         <option value="$PROJECT_DIR$/dubbo_api/src/main/java/com/tu/api/services/impl/DubboServerImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/Reflect/Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tu/mvctest/test/Reflect/Booktkw.java" />
@@ -403,6 +253,23 @@
         <option value="$PROJECT_DIR$/redisDemo/src/main/java/com/tu/redisDemo.java" />
         <option value="$PROJECT_DIR$/redisDemo/src/main/java/com/tu/redisDemo/redisDemo.java" />
         <option value="$PROJECT_DIR$/redisDemo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/config/UserArgumentResolver.java" />
+        <option value="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-seckill/pom.xml" />
+        <option value="$PROJECT_DIR$/JAVASE-MODEL/src/main/java/com/tu/redisDemo/mvctest/test/DebugTest.java" />
+        <option value="$PROJECT_DIR$/JAVASE-MODEL/src/main/java/com/tu/redisDemo/mvctest/test/txDemo/UserService.java" />
+        <option value="$PROJECT_DIR$/JAVASE-MODEL/src/main/java/com/tu/redisDemo/mvctest/test/GCErrorDemo.java" />
+        <option value="$PROJECT_DIR$/JAVASE-MODEL/src/main/java/com/tu/redisDemo/mvctest/test/MyBeanFactoryPostProcessor.java" />
+        <option value="$PROJECT_DIR$/JAVASE-MODEL/src/main/java/com/tu/redisDemo/mvctest/test/MyInstantiationAwareBeanPostProcessor.java" />
+        <option value="$PROJECT_DIR$/JAVASE-MODEL/src/main/java/com/tu/redisDemo/mvctest/test/StudentBean.java" />
+        <option value="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/DemoTest.java" />
+        <option value="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/redis/RedisService.java" />
+        <option value="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/redis/GoodsKey.java" />
+        <option value="$PROJECT_DIR$/springboot-seckill/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/rabbitmq/MQReceiver.java" />
+        <option value="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/SeckillController.java" />
+        <option value="$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/service/OrderService.java" />
       </list>
     </option>
   </component>
@@ -432,9 +299,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1945" />
+    <option name="x" value="205" />
+    <option name="y" value="20" />
+    <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -450,113 +317,142 @@
           <expand>
             <path>
               <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="JAVASE-MODEL" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="JAVASE-MODEL" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="JAVASE-MODEL" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="JAVASE-MODEL" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="javaspidemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="javaspidemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitMQ-product" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitMQ-product" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitMQ-product" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitMQ-product" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="limit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="validator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="redisDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="redisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="redisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="redisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="redisDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="redisDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mvctest" type="462c0819:PsiDirectoryNode" />
-              <item name="redisDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mvctest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-seckill" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -569,14 +465,16 @@
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606202472536" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606371935832" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="D:/workspce/dubbo/dubbo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-seckill" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -588,12 +486,6 @@
     <property name="show.run.dashboard.notification" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\iproject\mvctest\web" />
-      <recent name="D:\iproject\mvctest\web\WEB-INF\script" />
-      <recent name="D:\iproject\mvctest\src\main\resources\spring" />
-      <recent name="D:\iproject\mvctest" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -602,6 +494,12 @@
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.tu.mvctest.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\iproject\mvctest\web" />
+      <recent name="D:\iproject\mvctest\web\WEB-INF\script" />
+      <recent name="D:\iproject\mvctest\src\main\resources\spring" />
+      <recent name="D:\iproject\mvctest" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -616,13 +514,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.redisDemo">
-    <configuration name="ConsumerController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tu.dubboDemo.controller.ConsumerController" />
-      <module name="dubbo_consumer" />
+  <component name="RunManager" selected="Spring Boot.MainApplication">
+    <configuration name="DebugTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tu.redisDemo.mvctest.test.DebugTest" />
+      <module name="JAVASE-MODEL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tu.dubboDemo.controller.*" />
+          <option name="PATTERN" value="com.tu.redisDemo.mvctest.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -630,12 +528,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tu.dubboDemo.controller.ProductController" />
-      <module name="dubbo_product" />
+    <configuration name="DemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesper.seckill.DemoTest" />
+      <module name="jesper_seckill" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tu.dubboDemo.controller.*" />
+          <option name="PATTERN" value="com.jesper.seckill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RateLimiterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jesper.seckill.limit.RateLimiterDemo" />
+      <module name="jesper_seckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jesper.seckill.limit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -684,15 +595,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RabbitMQMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="rabbitMQ-product" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tu.rabbitmqtest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tu.rabbitmqtest.RabbitMQMain" />
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jesper_seckill" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jesper.seckill.MainApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -800,8 +705,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ConsumerController" />
-      <item itemvalue="Application.ProductController" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="Spring Boot.SpringbootJmsConsumerApplication" />
@@ -809,17 +712,20 @@
       <item itemvalue="Spring Boot.DubboConsumerApplication" />
       <item itemvalue="Spring Boot.DubboProductApplication" />
       <item itemvalue="Spring Boot.ApiApplication" />
-      <item itemvalue="Spring Boot.RabbitMQMain" />
       <item itemvalue="Tomcat Server.mvctest" />
       <item itemvalue="Spring Boot.redisDemo" />
+      <item itemvalue="Spring Boot.MainApplication" />
+      <item itemvalue="Application.DebugTest" />
+      <item itemvalue="Application.DemoTest" />
+      <item itemvalue="Application.RateLimiterDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RateLimiterDemo" />
+        <item itemvalue="Application.DemoTest" />
+        <item itemvalue="Application.DebugTest" />
         <item itemvalue="Spring Boot.redisDemo" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Spring Boot.RabbitMQMain" />
-        <item itemvalue="Application.ConsumerController" />
-        <item itemvalue="Application.ProductController" />
       </list>
     </recent_temporary>
   </component>
@@ -878,7 +784,7 @@
       <workItem from="1605489848678" duration="6643000" />
       <workItem from="1605535565486" duration="16758000" />
       <workItem from="1605836628084" duration="599000" />
-      <workItem from="1606094723724" duration="3068000" />
+      <workItem from="1606094723724" duration="38910000" />
     </task>
     <servers />
   </component>
@@ -915,7 +821,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="609298000" />
+    <option name="totallyTimeSpent" value="645140000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -928,8 +834,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49222064" visible="true" weight="0.27010724" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49222064" visible="true" weight="0.22587131" />
       <window_info id="Structure" order="1" sideWeight="0.5007072" side_tool="true" weight="0.24865952" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -940,7 +847,7 @@
       <window_info id="设计器" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.13739377" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.886059" visible="true" weight="0.2549575" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.886059" visible="true" weight="0.3696884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -955,16 +862,17 @@
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" />
       <window_info anchor="bottom" id="Duplicate detector" order="16" weight="0.32956153" />
-      <window_info anchor="bottom" id="调试" order="17" weight="0.5318246" />
+      <window_info anchor="bottom" id="调试" order="17" weight="0.28186968" />
+      <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Database" order="0" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.11595174" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="调色板" order="7" />
-      <window_info anchor="right" id="CDI" order="8" visible="true" weight="0.097184986" />
+      <window_info anchor="right" id="CDI" order="8" weight="0.097184986" />
       <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
       <window_info anchor="right" id="Maven" order="10" weight="0.3297587" />
     </layout>
@@ -1015,13 +923,13 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/DebugTest.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <condition expression="s.equals(&quot;aa&quot;)" language="JAVA" />
           <url>file://$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/DebugTest.java</url>
           <line>27</line>
@@ -1033,6 +941,36 @@
           <line>80</line>
           <properties />
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/GoodsController.java</url>
+          <line>135</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/GoodsController.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/GoodsController.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/SeckillController.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/UserController.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1095,416 +1033,377 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.m2/repository/org/apache/dubbo/dubbo-spring-boot-autoconfigure/2.7.7/dubbo-spring-boot-autoconfigure-2.7.7.pom">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        <state relative-caret-position="124">
+          <caret line="454" selection-start-line="454" selection-end-line="454" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.m2/repository/org/apache/dubbo/dubbo-spring-boot-starter/2.7.7/dubbo-spring-boot-starter-2.7.7.pom">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="46" column="38" lean-forward="true" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+        <state relative-caret-position="141">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_api/src/main/java/com/tu/redisDemo/api/services/impl/DubboServerImpl.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state relative-caret-position="124">
+          <caret line="399" selection-start-line="399" selection-end-line="399" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/dubbo/dubbo/2.7.7/dubbo-2.7.7.jar!/org/apache/dubbo/config/annotation/DubboService.class">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-217">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="124">
+          <caret line="402" selection-start-line="402" selection-end-line="402" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_product/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/ir/annotations/Reference.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_consumer/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_consumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="55" column="39" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/redisDemo/dubboDemo/controller/ProductController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/redisDemo/dubboDemo/services/DemoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_product/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/redisDemo/dubboDemo/DubboConsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_consumer/src/main/resources/consumer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_product/src/main/resources/provider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/redisDemo/dubboDemo/services/impl/DemoServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/redisDemo/dubboDemo/services/impl/DemoServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/redisDemo/dubboDemo/services/DemoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/redisDemo/dubboDemo/services/impl/DemoServiceImpl2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_product/src/main/java/com/tu/redisDemo/dubboDemo/DubboProductApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo_consumer/src/main/java/com/tu/redisDemo/dubboDemo/controller/ConsumerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/annotation/RetentionPolicy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-rabbit/2.2.10.RELEASE/spring-rabbit-2.2.10.RELEASE-sources.jar!/org/springframework/amqp/rabbit/annotation/RabbitHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="45" column="26" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-rabbit/2.2.10.RELEASE/spring-rabbit-2.2.10.RELEASE-sources.jar!/org/springframework/amqp/rabbit/annotation/RabbitListeners.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-rabbit/2.2.10.RELEASE/spring-rabbit-2.2.10.RELEASE-sources.jar!/org/springframework/amqp/rabbit/annotation/RabbitListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="106" column="27" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/config/SendReturnCallback.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/javax/servlet/http/HttpServlet.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="290" selection-start-line="290" selection-end-line="290" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/config/SendConfirmCallback.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.23/tomcat-embed-websocket-8.5.23.jar!/org/apache/tomcat/websocket/server/WsFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE.jar!/org/springframework/web/servlet/resource/ResourceUrlEncodingFilter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/config/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-rabbit/2.2.10.RELEASE/spring-rabbit-2.2.10.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/BatchingRabbitTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="83" column="22" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/controller/RabbitMQController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="38" column="28" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-amqp/2.2.10.RELEASE/spring-amqp-2.2.10.RELEASE-sources.jar!/org/springframework/amqp/core/AbstractExchange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-933">
-          <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
-          <folding>
-            <element signature="e#1362#1363#0" expanded="true" />
-            <element signature="e#1392#1393#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-rabbit/2.2.10.RELEASE/spring-rabbit-2.2.10.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11592">
-          <caret line="149" column="13" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/service/DirectSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/RabbitMQMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/service/DirectReceiver1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/service/DirectReceiver2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="14" selection-start-line="10" selection-start-column="13" selection-end-line="12" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/config/RabbitMQConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="20" column="49" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-amqp/2.2.10.RELEASE/spring-amqp-2.2.10.RELEASE-sources.jar!/org/springframework/amqp/core/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
-          <folding>
-            <element signature="e#1545#1546#0" expanded="true" />
-            <element signature="e#1582#1583#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-amqp/2.2.10.RELEASE/spring-amqp-2.2.10.RELEASE-sources.jar!/org/springframework/amqp/core/DirectExchange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="32" column="38" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="38" />
-          <folding>
-            <element signature="e#1086#1087#0" expanded="true" />
-            <element signature="e#1104#1105#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitMQ-product/src/main/java/com/tu/redisDemo/rabbitmqtest/config/RabbitTemplateConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitMQ-product/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tu/redisDemo/mvctest/test/Test.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/filter/RequestContextFilter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitMQ-product/pom.xml">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/filter/HttpPutFormContentFilter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="73" column="12" selection-start-line="3" selection-start-column="4" selection-end-line="73" selection-end-column="12" />
+        <state relative-caret-position="136">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redisDemo/pom.xml">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/filter/HiddenHttpMethodFilter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        <state relative-caret-position="136">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redisDemo/src/main/resources/application.properties">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/filter/CharacterEncodingFilter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        <state relative-caret-position="294">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redisDemo/src/main/java/com/tu/redisDemo/redisDemo.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/filter/OncePerRequestFilter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-end-line="14" />
+        <state relative-caret-position="153">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/org/apache/catalina/core/StandardWrapperValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/org/apache/catalina/core/StandardContextValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/org/apache/catalina/authenticator/AuthenticatorBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/org/apache/catalina/core/StandardHostValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/org/apache/catalina/valves/ErrorReportValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/redis/GoodsKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JAVASE-MODEL/src/main/java/com/tu/redisDemo/model/SeasonMain.java">
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1363">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="272">
+          <caret line="15" column="167" selection-start-line="15" selection-start-column="167" selection-end-line="15" selection-end-column="167" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javaspidemo/src/com/spi/demo/NuanNanAobing.java">
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/result/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/redis/RedisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="143" column="24" selection-start-line="143" selection-start-column="24" selection-end-line="143" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/limit/RateLimiterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/validator/IsMobileValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/result/CodeMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/exception/GlobalException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/exception/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/SeckillController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <element signature="e#1712#1727#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javaspidemo/src/com/spi/demo/ShuaiAobing.java">
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="57">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javaspidemo/src/com/spi/demo/SpiDemo.java">
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/rabbitmq/MQReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="88">
+          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javaspidemo/src/com/spi/demo/SpiInterface.java">
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/rabbitmq/MQSender.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="87">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/service/SeckillService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/resources/templates/order_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/resources/static/order_detail.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="78" column="22" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/resources/templates/hello.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/resources/templates/goods_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-196">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/DemoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="61" selection-start-line="61" selection-end-line="65" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/service/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+          <folding>
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="158" column="41" selection-start-line="158" selection-start-column="28" selection-end-line="158" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/resources/templates/goods_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="53" column="89" selection-start-line="53" selection-start-column="80" selection-end-line="53" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/resources/static/goods_detail.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="179" column="24" lean-forward="true" selection-start-line="179" selection-start-column="24" selection-end-line="179" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/mapper/GoodsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/rabbitmq/SeckillMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/rabbitmq/MQConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/mapper/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-seckill/src/main/java/com/jesper/seckill/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1570,11 +1469,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|redisDemo</last-edited>
+          <last-edited>JAVASE-MODEL</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.21752904" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1582,7 +1482,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: org.apache.commons:commons-dbcp2:2.3.0</last-edited>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
